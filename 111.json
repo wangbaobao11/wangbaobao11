@@ -141,7 +141,7 @@
   "experimental": {
     "cache_file": {
       "enabled": true,
-      "path": "/etc/momo/run/cache.db",
+      "path": "/etc/sing-box/cache.db",
       "store_fakeip": false
     },
     "clash_api": {
@@ -158,4 +158,5 @@
     "level": "info",
     "timestamp": true
   }
+
 }
